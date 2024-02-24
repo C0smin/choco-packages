@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>simplex.commandline</id>
+    <version>1.0.0</version>
+    <title>SimpleX Chat - Commandline</title>
+    <authors>SimpleX</authors>
+    <owners>C0smin</owners>
+    <packageSourceUrl>https://github.com/C0smin/choco-packages/packages/simplex/</packageSourceUrl>
+    <iconUrl>https://images.opencollective.com/simplex-chat/ba431b7/logo/256.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://simplex.chat/</projectUrl>
+    <copyright>SimpleX</copyright>
+    <tags>simplex chat secure commandline</tags>
+    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases</releaseNotes>
+    <licenseUrl>https://github.com/simplex-chat/simplex-chat/blob/stable/LICENSE</licenseUrl>
+    <docsUrl>https://github.com/simplex-chat/simplex-chat/blob/stable/docs/CLI.md</docsUrl>
+    <projectSourceUrl>https://github.com/simplex-chat/simplex-chat/tree/stable</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/simplex-chat/simplex-chat/issues</bugTrackerUrl>
+    <mailingListUrl>https://simplex.chat/#join-simplex</mailingListUrl>
+    <summary>SimpleX - the first messaging platform that has no user identifiers of any kind - 100%
+      private by design!</summary>
+    <description><![CDATA[SimpleX - the first messaging platform that has no user identifiers of any kind - 100% private by design!]]></description>
+    <dependencies></dependencies>
+  </metadata>
+</package>
