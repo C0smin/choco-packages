@@ -23,4 +23,7 @@
     <description><![CDATA[SimpleX - the first messaging platform that has no user identifiers of any kind - 100% private by design!]]></description>
     <dependencies></dependencies>
   </metadata>
+  <files>
+    <file src="tools\*" target="tools" />
+  </files>
 </package>
