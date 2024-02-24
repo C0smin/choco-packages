@@ -2,6 +2,9 @@
 
 List of available package:
 
+* [SimpleX](./packages/simplex)
+* [SimpleX Commandline](./packages/simplex.commandline)
+
 ## Requirements
 
 * Chocolatey (choco.exe)
