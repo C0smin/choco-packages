@@ -7,7 +7,7 @@
     <authors>SimpleX</authors>
     <owners>Cosmin</owners>
     <packageSourceUrl>https://github.com/C0smin/choco-packages/tree/main/packages/simplex/</packageSourceUrl>
-    <iconUrl>https://images.opencollective.com/simplex-chat/ba431b7/logo/256.png</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/C0smin/choco-packages/main/packages/simplex/simplex.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectUrl>https://simplex.chat/</projectUrl>
     <copyright>SimpleX</copyright>
