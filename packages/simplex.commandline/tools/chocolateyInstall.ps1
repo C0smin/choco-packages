@@ -6,8 +6,8 @@ $fileLocation = "$toolsDir\simplex.exe"
 $webFileParameters = @{
     packageName  = $env:ChocolateyPackageName
     fileFullPath = $fileLocation
-    url          = 'https://github.com/simplex-chat/simplex-chat/releases/download/v5.7.3/simplex-chat-windows-x86-64'
-    checksum     = 'DE43EFE168B3688A2F25EAE1F8F1A1955FEAF531057F44C6C6548F315BE70B82'
+    url          = 'https://github.com/simplex-chat/simplex-chat/releases/download/v5.8.0/simplex-chat-windows-x86-64'
+    checksum     = '6EF977134FB9896FF0DE3E2302AF472421F18CA37F157BA641476526AE0E4E6B'
     checksumType = 'sha256'
 }
 Get-ChocolateyWebFile @webFileParameters

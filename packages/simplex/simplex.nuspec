@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>simplex</id>
-    <version>5.7.3</version>
+    <version>5.8.0</version>
     <title>SimpleX Chat</title>
     <authors>SimpleX</authors>
     <owners>Cosmin</owners>
@@ -12,7 +12,7 @@
     <projectUrl>https://simplex.chat/</projectUrl>
     <copyright>SimpleX</copyright>
     <tags>simplex chat secure</tags>
-    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases/tag/v5.7.3</releaseNotes>
+    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases/tag/v5.8.0</releaseNotes>
     <licenseUrl>https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/LICENSE</licenseUrl>
     <docsUrl>https://github.com/simplex-chat/simplex-chat/blob/stable/docs/guide/README.md</docsUrl>
     <projectSourceUrl>https://github.com/simplex-chat/simplex-chat/tree/stable</projectSourceUrl>
