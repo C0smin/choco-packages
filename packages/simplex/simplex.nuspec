@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>simplex</id>
-    <version>6.0.4</version>
+    <version>6.1.1</version>
     <title>SimpleX Chat</title>
     <authors>SimpleX</authors>
     <owners>Cosmin</owners>
@@ -12,7 +12,7 @@
     <projectUrl>https://simplex.chat/</projectUrl>
     <copyright>SimpleX</copyright>
     <tags>simplex chat secure</tags>
-    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases/tag/v6.0.4</releaseNotes>
+    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases/tag/v6.1.1</releaseNotes>
     <licenseUrl>https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/LICENSE</licenseUrl>
     <docsUrl>https://github.com/simplex-chat/simplex-chat/blob/stable/docs/guide/README.md</docsUrl>
     <projectSourceUrl>https://github.com/simplex-chat/simplex-chat/tree/stable</projectSourceUrl>
@@ -20,7 +20,15 @@
     <mailingListUrl>https://simplex.chat/#join-simplex</mailingListUrl>
     <summary>SimpleX - the first messaging platform that has no user identifiers of any kind - 100%
       private by design!</summary>
-    <description><![CDATA[SimpleX is a client-server network with a unique network topology that uses redundant, disposable message relay nodes to asynchronously pass messages via unidirectional (simplex) message queues, providing recipient and sender anonymity.
+    <description><![CDATA[# SimpleX
+
+## Package author note
+
+**Important: This is an unofficial version, the chocolatey package is community maintained and only based on the releases made available by the SimpleX team, use the Contact Maintainers link for package related issues.**
+
+## Platform design
+
+SimpleX is a client-server network with a unique network topology that uses redundant, disposable message relay nodes to asynchronously pass messages via unidirectional (simplex) message queues, providing recipient and sender anonymity.
 
 Unlike P2P networks, all messages are passed through one or several server nodes, that do not even need to have persistence. In fact, the current [SMP server implementation](https://github.com/simplex-chat/simplexmq#smp-server) uses in-memory message storage, persisting only the queue records. SimpleX provides better metadata protection than P2P designs, as no global participant identifiers are used to deliver messages, and avoids [the problems of P2P networks](./docs/SIMPLEX.md#comparison-with-p2p-messaging-protocols).
 

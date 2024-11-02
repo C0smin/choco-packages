@@ -1,4 +1,10 @@
-# SimpleX Platform design
+# SimpleX
+
+## Package author note
+
+**Important: This is an unofficial version, the chocolatey package is community maintained and only based on the releases made available by the SimpleX team, use the Contact Maintainers link for package related issues.**
+
+## Platform design
 
 SimpleX is a client-server network with a unique network topology that uses redundant, disposable message relay nodes to asynchronously pass messages via unidirectional (simplex) message queues, providing recipient and sender anonymity.
 
@@ -10,6 +16,6 @@ Only the client devices have information about users, their contacts and groups.
 
 See [SimpleX whitepaper](https://github.com/simplex-chat/simplexmq/blob/stable/protocol/overview-tjr.md) for more information on platform objectives and technical design.
 
-See [SimpleX Chat Protocol](./docs/protocol/simplex-chat.md) for the format of messages sent between chat clients over [SimpleX Messaging Protocol](https://github.com/simplex-chat/simplexmq/blob/stable/protocol/simplex-messaging.md).
+See [SimpleX Chat Protocol](https://github.com/simplex-chat/simplex-chat/blob/stable/docs/protocol/simplex-chat.md) for the format of messages sent between chat clients over [SimpleX Messaging Protocol](https://github.com/simplex-chat/simplexmq/blob/stable/protocol/simplex-messaging.md).
 
 > Please note that the included dll is to work around [ERROR: - libcrypto.so.1.1: cannot open shared object file: No such file or directory #1274](https://github.com/simplex-chat/simplex-chat/issues/1274).
