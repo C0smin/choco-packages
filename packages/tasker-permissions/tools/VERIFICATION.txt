@@ -1,0 +1,7 @@
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+From: https://github.com/joaomgcd/Tasker-Permissions/releases/download/v0.2.0/tasker_permissions_portable.exe
+  Checksum: CBAF76EE717BB975ECF811ED727D5297240FED11AF385E286DF38B1DB6607240
+  Checksum Type: sha256
