@@ -2,6 +2,6 @@ VERIFICATION
 Verification is intended to assist the Chocolatey moderators and community
 in verifying that this package's contents are trustworthy.
 
-From: https://github.com/simplex-chat/simplex-chat/releases/download/v6.2.4/simplex-chat-windows-x86-64
-  Checksum: 15A8EF17B0CA88A0FDE07FA36EF63DBCD0119D9014AD2751E03AA6BC06E6FC4B
+From: https://github.com/simplex-chat/simplex-chat/releases/download/v6.3.0/simplex-chat-windows-x86-64
+  Checksum: 8646622B3B5E420F48326B2C700A29F086DA6E0422536B36B72C1E35AAFCDD21
   Checksum Type: sha256
