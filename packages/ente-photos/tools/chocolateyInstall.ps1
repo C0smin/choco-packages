@@ -3,11 +3,11 @@
 $packageArgs = @{
     packageName    = $env:ChocolateyPackageName
     fileType       = 'exe'
-    url            = 'https://github.com/ente-io/photos-desktop/releases/download/v1.7.10/ente-1.7.10.exe'
-    checksum       = 'DDC35BB409D409C7F75EFBC69EBBEF3122A15C68BAA6AC4EDC0DA358D0BC932E'
+    url            = 'https://github.com/ente-io/photos-desktop/releases/download/v1.7.11/ente-1.7.11.exe'
+    checksum       = 'DE0F5ADFCBFB190CB91B794178F0043787DB05E069DA93244539EBF491660F42'
     checksumType   = 'sha256'
-    url64          = 'https://github.com/ente-io/photos-desktop/releases/download/v1.7.10/ente-1.7.10-x64.exe'
-    checksum64     = '369476E2D6CBE3F3331E2B15C0B0A200A069268879025AEB083B294F77D56F5E'
+    url64          = 'https://github.com/ente-io/photos-desktop/releases/download/v1.7.11/ente-1.7.11-x64.exe'
+    checksum64     = '2C3CE18E4AC9E585A210EC1281D3CBE65E8DFA9E6899A8E5CD370F616940A39A'
     checksumType64 = 'sha256'
     silentArgs     = '/S'
     validExitCodes = @(0, 1641, 3010)

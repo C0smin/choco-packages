@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>simplex</id>
-    <version>6.3.0</version>
+    <version>6.3.1</version>
     <title>SimpleX Chat</title>
     <authors>SimpleX</authors>
     <owners>Cosmin</owners>
@@ -12,7 +12,7 @@
     <projectUrl>https://simplex.chat/</projectUrl>
     <copyright>SimpleX</copyright>
     <tags>simplex chat secure</tags>
-    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases/tag/v6.1.1</releaseNotes>
+    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases/tag/v6.3.1</releaseNotes>
     <licenseUrl>https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/LICENSE</licenseUrl>
     <docsUrl>https://github.com/simplex-chat/simplex-chat/blob/stable/docs/guide/README.md</docsUrl>
     <projectSourceUrl>https://github.com/simplex-chat/simplex-chat/tree/stable</projectSourceUrl>
@@ -40,7 +40,8 @@ See [SimpleX whitepaper](https://github.com/simplex-chat/simplexmq/blob/stable/p
 
 See [SimpleX Chat Protocol](https://github.com/simplex-chat/simplex-chat/blob/stable/docs/protocol/simplex-chat.md) for the format of messages sent between chat clients over [SimpleX Messaging Protocol](https://github.com/simplex-chat/simplexmq/blob/stable/protocol/simplex-messaging.md).
 ]]></description>
-    <dependencies></dependencies>
+    <dependencies>
+    </dependencies>
   </metadata>
   <files>
     <file src="tools\*" target="tools" />

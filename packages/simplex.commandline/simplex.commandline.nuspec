@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>simplex.commandline</id>
-    <version>6.3.0</version>
+    <version>6.3.1</version>
     <title>SimpleX Chat - Commandline</title>
     <authors>SimpleX</authors>
     <owners>Cosmin</owners>
@@ -12,7 +12,7 @@
     <projectUrl>https://simplex.chat/</projectUrl>
     <copyright>SimpleX</copyright>
     <tags>simplex chat secure commandline</tags>
-    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases/tag/v6.1.1</releaseNotes>
+    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases/tag/v6.3.1</releaseNotes>
     <licenseUrl>https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/LICENSE</licenseUrl>
     <docsUrl>https://github.com/simplex-chat/simplex-chat/blob/stable/docs/CLI.md</docsUrl>
     <projectSourceUrl>https://github.com/simplex-chat/simplex-chat/tree/stable</projectSourceUrl>
@@ -42,7 +42,8 @@ See [SimpleX Chat Protocol](https://github.com/simplex-chat/simplex-chat/blob/st
 
 > Please note that the included dll is to work around [ERROR: - libcrypto.so.1.1: cannot open shared object file: No such file or directory #1274](https://github.com/simplex-chat/simplex-chat/issues/1274).
 ]]></description>
-    <dependencies></dependencies>
+    <dependencies>
+    </dependencies>
   </metadata>
   <files>
     <file src="tools\*" target="tools" />

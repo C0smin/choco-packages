@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ente-photos</id>
-    <version>1.7.10</version>
+    <version>1.7.11</version>
     <title>Ente Photos</title>
     <authors>Ente</authors>
     <owners>Cosmin</owners>
@@ -12,7 +12,7 @@
     <projectUrl>https://ente.io</projectUrl>
     <copyright>Ente-io</copyright>
     <tags>ente photos album images</tags>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>https://github.com/ente-io/photos-desktop/releases/tag/v1.7.11</releaseNotes>
     <licenseUrl>https://raw.githubusercontent.com/ente-io/ente/refs/heads/main/LICENSE</licenseUrl>
     <docsUrl>https://help.ente.io</docsUrl>
     <projectSourceUrl>https://github.com/ente-io/ente/tree/main</projectSourceUrl>
@@ -36,7 +36,8 @@ Ente also makes it simple to share your albums with your loved ones. You can sha
 
 Learn more at [ente.io](ente.io).
 ]]></description>
-    <dependencies></dependencies>
+    <dependencies>
+    </dependencies>
   </metadata>
   <files>
     <file src="tools\*" target="tools" />
