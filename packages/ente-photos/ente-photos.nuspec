@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ente-photos</id>
-    <version>1.7.11</version>
+    <version>1.7.12</version>
     <title>Ente Photos</title>
     <authors>Ente</authors>
     <owners>Cosmin</owners>
@@ -12,7 +12,7 @@
     <projectUrl>https://ente.io</projectUrl>
     <copyright>Ente-io</copyright>
     <tags>ente photos album images</tags>
-    <releaseNotes>https://github.com/ente-io/photos-desktop/releases/tag/v1.7.11</releaseNotes>
+    <releaseNotes>https://github.com/ente-io/photos-desktop/releases/tag/v1.7.12</releaseNotes>
     <licenseUrl>https://raw.githubusercontent.com/ente-io/ente/refs/heads/main/LICENSE</licenseUrl>
     <docsUrl>https://help.ente.io</docsUrl>
     <projectSourceUrl>https://github.com/ente-io/ente/tree/main</projectSourceUrl>
