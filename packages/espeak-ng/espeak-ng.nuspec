@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>espeak-ng.commandline</id>
+    <id>espeak-ng</id>
     <version>1.52.0</version>
     <title>eSpeak NG - Commandline</title>
     <authors>espeak-ng</authors>
