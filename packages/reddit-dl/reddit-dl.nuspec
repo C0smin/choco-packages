@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>reddit-dl</id>
+    <version>1.0.0</version>
+    <title>reddit-dl (Install)</title>
+    <authors>patrickkfkan</authors>
+    <owners>Cosmin</owners>
+    <packageSourceUrl>https://github.com/C0smin/choco-packages/tree/main/packages/reddit-dl/</packageSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/patrickkfkan/reddit-dl</projectUrl>
+    <copyright>patrickkfkan</copyright>
+    <tags>reddit-dl reddit download social</tags>
+    <releaseNotes>https://github.com/patrickkfkan/reddit-dl/releases/tag/v1.0.0</releaseNotes>
+    <licenseUrl>https://raw.githubusercontent.com/patrickkfkan/reddit-dl/refs/heads/main/NOTICE</licenseUrl>
+    <docsUrl>https://github.com/patrickkfkan/reddit-dl?tab=readme-ov-file#usage</docsUrl>
+    <projectSourceUrl>https://github.com/patrickkfkan/reddit-dl</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/patrickkfkan/reddit-dl/issues</bugTrackerUrl>
+    <summary>A console application for downloading Reddit content.</summary>
+    <description><![CDATA[# reddit-dl
+
+## Package author note
+
+**Important: This is an unofficial version, the chocolatey package is community maintained and only based on the releases made available by the SimpleX team, use the Contact Maintainers link for package related issues.**
+
+## Description
+
+A console application for downloading Reddit content.
+]]></description>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\*" target="tools" />
+  </files>
+</package>
