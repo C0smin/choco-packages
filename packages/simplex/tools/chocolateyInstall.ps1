@@ -3,8 +3,8 @@
 $packageArgs = @{
     packageName    = $env:ChocolateyPackageName
     fileType       = 'msi'
-    url            = 'https://github.com/simplex-chat/simplex-chat/releases/download/v6.4.4/simplex-desktop-windows-x86_64.msi'
-    checksum       = '57BA1682EC1CBB2B9499ABF2ACD4E7A0C3897DD5E36DCCE5FD217D9811CEA66C'
+    url            = 'https://github.com/simplex-chat/simplex-chat/releases/download/v6.4.6/simplex-desktop-windows-x86_64.msi'
+    checksum       = 'FB39CDD93E5A6C9CD0198FEDAF86505B0D0EDF08EAF7B876D0BCE31D4D439FF7'
     checksumType   = 'sha256'
     silentArgs     = '/quiet /qn /norestart'
     validExitCodes = @(0, 1641, 3010)

@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>simplex.commandline</id>
-    <version>6.4.4</version>
+    <version>6.4.6</version>
     <title>SimpleX Chat - Commandline</title>
     <authors>SimpleX</authors>
     <owners>Cosmin</owners>
@@ -12,7 +12,7 @@
     <projectUrl>https://simplex.chat/</projectUrl>
     <copyright>SimpleX</copyright>
     <tags>simplex chat secure commandline</tags>
-    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases/tag/v6.4.4</releaseNotes>
+    <releaseNotes>https://github.com/simplex-chat/simplex-chat/releases/tag/v6.4.6</releaseNotes>
     <licenseUrl>https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/LICENSE</licenseUrl>
     <docsUrl>https://github.com/simplex-chat/simplex-chat/blob/stable/docs/CLI.md</docsUrl>
     <projectSourceUrl>https://github.com/simplex-chat/simplex-chat/tree/stable</projectSourceUrl>
