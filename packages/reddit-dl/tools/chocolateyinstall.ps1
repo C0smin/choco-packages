@@ -6,8 +6,8 @@ $packageArgs = @{
     packageName   = $env:ChocolateyPackageName
     unzipLocation = $toolsDir
     fileType      = 'ZIP'
-    url           = 'https://github.com/patrickkfkan/reddit-dl/releases/download/v1.0.0/reddit-dl-1.0.0-win32-x64.zip'
-    checksum      = '5D2DD2CB28AEB22974CD178683824AA97AA2D68C738E0E968A90B3289A4C3F22'
+    url           = 'https://github.com/patrickkfkan/reddit-dl/releases/download/v1.1.1/reddit-dl-1.1.1-win32-x64.zip'
+    checksum      = '3FC0FE5FA20E929BA3650A4C42CBCE7437F643C0AB8D96AB793C4ACF9AADAAE2'
     checksumType  = 'sha256'
 }
 Install-ChocolateyZipPackage @packageArgs
