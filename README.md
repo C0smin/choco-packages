@@ -2,8 +2,12 @@
 
 List of available package:
 
-* [SimpleX](./packages/simplex)
-* [SimpleX Commandline](./packages/simplex.commandline)
+* [Ente Photos](./packages/ente-photos/README.md)
+* [eSpeak NG](./packages/espeak-ng/README.md)
+* [reddit-dl](./packages/reddit-dl/README.md)
+* [SimpleX](./packages/simplex/README.md)
+* [SimpleX Commandline](./packages/simplex.commandline/README.md)
+* [Tasker Permissions](packages/tasker-permissions/README.md)
 
 ## Requirements
 
